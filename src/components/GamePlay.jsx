@@ -229,7 +229,7 @@ const GameOverMessage = styled.div`
   justify-content: center;
   background-color: rgba(0, 0, 0, 0.7);
   color: #f44237;
-  font-size: 7rem;
+  font-size: 8rem;
   font-family: 'Tektur', cursive;
   z-index: 999;
 `;
